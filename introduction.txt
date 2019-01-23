@@ -1,0 +1,36 @@
+C++
+--
+   C++ is a complited, object-oriented lang
+   Successor to C, procedural lang
+   Derived from a lang called B, developed by Bjarne Stroustrup of AT&T Bell Labs
+
+    known actual usage
+     - Videogame Developers -> libraries and codes written en c++
+     - Embedded programs (programs which are written through Controllers or Accessors)
+     - Large DB use C++ in order to memory usage
+
+  IDE => Integrated Development Environments
+    * IDE is not a compiler, but most of it comes with the compiler
+    * Comes with a text editor -> syntax highlighting, project management, source-control integration, etc
+
+==========
+
+  #include <iostream>   -> preprocessor directive (including a preexisting file on the project)
+                        -> include some native useful functions
+
+  using namespace std;  -> namespace C ++ standard library (for usage of cout p.e)
+                        -> we are going to use functions from the STD, allocated on the IOSTREAM
+
+  int main(){           -> THIS IS THE ENTRY POINT (should returns a INT VALUE or expecting)
+
+    cout << "Hello, World!" << endl;  -> PRINT a string on the console
+
+  }
+
+  ===========
+
+  Arithmetics: PEMDAS sorting
+
+  ===========
+  If / Else Statements
+  ---
