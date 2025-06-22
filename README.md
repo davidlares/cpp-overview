@@ -1,4 +1,4 @@
-# DavidC++
+## DavidC++
 
 Just a personal review of C++ fundamentals concepts and functionality
 
@@ -15,10 +15,8 @@ Just a personal review of C++ fundamentals concepts and functionality
 
    The -o flag represents the Output compiler process (Preprocessor, Compiler and Linker)
 
-## Credits
+## Créditos
+[David E Lares S](https://davidlares.com)
 
-  - [David E Lares S](https://twitter.com/@davidlares3)
-
-# License
-
-  - [MIT](https://opensource.org/licenses/MIT)
+## Licencia
+[MIT](https://opensource.org/licenses/MIT)
