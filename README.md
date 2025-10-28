@@ -1,11 +1,11 @@
-## DavidC++
+## C++ recap
 
 Just a personal review of C++ fundamentals concepts and functionality
 
 ## Compiler
 
-  For my examples I used GCC (GNU C Compiler) but I mostly recommend using a full IDE setup for C/C++
-  such NetBeans, CodeBlocks or CLion.
+  For my examples, I used GCC (GNU C Compiler), but I mostly recommend using a full IDE setup for C/C++
+  such as NetBeans, CodeBlocks, or CLion.
 
 ## Usage
 
@@ -13,10 +13,10 @@ Just a personal review of C++ fundamentals concepts and functionality
    `./[filename.out]`
 
 
-   The -o flag represents the Output compiler process (Preprocessor, Compiler and Linker)
+   The -o flag represents the Output compiler process (Preprocessor, Compiler, and Linker)
 
-## Créditos
-[David E Lares S](https://davidlares.com)
+## Credits
+[David Lares S](https://davidlares.com)
 
-## Licencia
+## License
 [MIT](https://opensource.org/licenses/MIT)
